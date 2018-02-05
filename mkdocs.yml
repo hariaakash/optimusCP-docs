@@ -1,2 +1,3 @@
-site_name: 'ProApi Documentation'
-theme: 'material'
+site_name: OptimusCP Docs
+theme:
+    name: 'material'
