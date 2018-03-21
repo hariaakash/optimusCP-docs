@@ -1,3 +1,18 @@
-site_name: OptimusCP Docs
+site_name: OptimusCP API Docs
 theme:
     name: 'material'
+    logo: 'img/logo.png'
+    favicon: 'img/favicon.ico'
+    palette:
+        primary: 'Blue'
+        accent: 'Blue'
+extra_css:
+  - 'css/style.css'
+extra:
+  social:
+    - type: 'facebook'
+      link: 'https://www.facebook.com/connectwithomnia/'
+    - type: 'twitter'
+      link: 'https://twitter.com/connect_omnia'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/company/connectwithomnia/'

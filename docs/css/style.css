@@ -1,0 +1,24 @@
+[data-md-color-primary=blue] .md-header, [data-md-color-primary=blue] .md-hero {
+    background-color: #353c48;
+}
+
+.md-container {
+    background-color: #353c48;
+}
+
+.md-typeset h1, .md-container, .md-typeset blockquote, .md-nav__link[data-md-state=blur] {
+    color: white;
+}
+
+.md-typeset blockquote {
+    border-left: 0.4rem solid grey;
+}
+
+.md-typeset pre {
+    background-color: white;
+    color: black;
+}
+
+.md-footer-meta {
+    background-color: #353c48;
+}
